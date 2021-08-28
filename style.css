@@ -1,0 +1,10 @@
+#avengers_logo{
+    width: 1250px;
+    height: 200px;
+}
+body{
+    text-align: center;
+}
+.avengers{
+    display: inline;
+}
